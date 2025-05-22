@@ -42,8 +42,3 @@ terraform apply
 
 - Public IPs for RDP and SSH
 - Logs stored at `/var/log/harden.log` on Linux VM
-
-## ✅ Next Steps
-
-- Add Azure Key Vault for secrets
-- Set up Azure Monitor or Defender
